@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.venv/
+.env
+.env.*
+.python-version
+
+# Build / packaging
+build/
+dist/
+
+# Coverage / testing
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Logs
+*.log
+logs/
+
+# Editors / OS
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Misc (sometimes used in this stack)
+.ngrok2/
